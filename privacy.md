@@ -15,7 +15,7 @@ We employ Google(Google Play Store) to provide services, process payments and as
 Online Privacy Policy Only
 --------------------------
 
-This Privacy Policy applies only to our online activities and is valid for visitors to our App with regards to the information that they shared and/or collect in Courage Cards Against Anxiety. This policy is not applicable to any information collected offline or via channels other than this app. Our Privacy Policy was created with the help of the [App Privacy Policy Generator from App-Privacy-Policy.com](https://www.app-privacy-policy.com/app-privacy-policy-generator/)
+This Privacy Policy applies only to our online activities and is valid for visitors to our App with regards to the information that they shared. This policy is not applicable to any information collected offline or via channels other than this app. Our Privacy Policy was created with the help of the [App Privacy Policy Generator from App-Privacy-Policy.com](https://www.app-privacy-policy.com/app-privacy-policy-generator/)
 
 Consent
 -------
